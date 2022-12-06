@@ -1,0 +1,5 @@
+name: QR Code
+description: Module to generate qr code for products.
+core_version_requirement: ^8 || ^9
+package: custom
+type: module
